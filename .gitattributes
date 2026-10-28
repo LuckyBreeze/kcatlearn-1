@@ -1,0 +1,2 @@
+# Preserve the server snapshot byte for byte, including on Windows checkouts.
+* -text

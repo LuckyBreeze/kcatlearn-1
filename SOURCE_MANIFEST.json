@@ -1,0 +1,104 @@
+{
+  "source": "/share/home/u17015/data/GraphKcat/catapro_residue_query_model2_20261027",
+  "files": {
+    "author_utils.py": {
+      "sha256": "1c5dfb08259a90eee896ec9ca1b3fcbb8dfe641b53e85f750b64f7ddaeaa762d",
+      "size": 4779
+    },
+    "checkpoints.json": {
+      "sha256": "176a52f9c9a7325adf72786dcc820e8bf3e1cb9dfc844837d2d31b8d21deb432",
+      "size": 1307
+    },
+    "cuda_probe.py": {
+      "sha256": "adef7f3c0e9212c717360bc5a245566a6c133bc43eab0ab26f340a99f064164c",
+      "size": 1602
+    },
+    "cuda_probe.sbatch": {
+      "sha256": "46509c388ccf164b92c61bb176bcc8d3a188641b163df9c3ed7ae8fbdf47be91",
+      "size": 519
+    },
+    "data.py": {
+      "sha256": "319d67bc8ad16b4f9ed2e99ef3c7ea4012cadd7b34d1aa7dfe6fecb137c16935",
+      "size": 6696
+    },
+    "deployment_manifest.json": {
+      "sha256": "794c88c35580f9df0b7129fe1d672b21911392bdaf2c12e5ce5fc824ba6263d5",
+      "size": 1789
+    },
+    "extract_tokens.py": {
+      "sha256": "fc26dfd290588233f491bc569f479a7709a56b74db0633b345556f2803fe6474",
+      "size": 23607
+    },
+    "integrated_validation.json": {
+      "sha256": "1d39932623281397aaf978bfa4013bcd396d73cc3755afe324c6849fbb7d96a6",
+      "size": 2155
+    },
+    "model.py": {
+      "sha256": "8ce826d29d025c13d97d53312895f92c6bf71cd3089d8cfd3bc0053c6500dbb9",
+      "size": 11426
+    },
+    "molt5.sbatch": {
+      "sha256": "fc4bbf84666339c4cc2b3a38f32fb23f00d49723a564b52000a1051140bdbe61",
+      "size": 743
+    },
+    "prepare.py": {
+      "sha256": "c1825a127271c54595451c52ded17d3fb8757fff2116fdd90846e0ef9c95e32d",
+      "size": 6323
+    },
+    "prepare.sbatch": {
+      "sha256": "c08b2c95f28bc0e2fc1724db96367b0f13964da6a3e202cc6fd75f36e9d49e06",
+      "size": 613
+    },
+    "protein.sbatch": {
+      "sha256": "68fef4633126e6b47eea34cf6010c9061030db1f3d7ffb56ecdc2899a1625fe9",
+      "size": 772
+    },
+    "protein_known_gpu.sbatch": {
+      "sha256": "7031f6f3038ab066f06f8b0c8688153f15b0b978187831bef249b4c1cbf3d362",
+      "size": 1204
+    },
+    "snapshot_remote.py": {
+      "sha256": "27b3e92b474b25cf0db2040d3f280d6786c3407fa4dde6228eea46dccf2b946f",
+      "size": 1757
+    },
+    "submit_remote.py": {
+      "sha256": "28d777fb23b7a3440b27e9e92483de7f173ff6890c9b9b27926fa5c32471f697",
+      "size": 3276
+    },
+    "tail_batch.py": {
+      "sha256": "1506f0e8e721ea147a0aeebe2e4347995a90f0020e43cfb0b9e84b513b92c696",
+      "size": 698
+    },
+    "test_data.py": {
+      "sha256": "2daf368aa30fdd0ae6d48668d818e95817e2720d8d5a92c8190690f81c19cc09",
+      "size": 2879
+    },
+    "test_extract_tokens.py": {
+      "sha256": "0dc727d7cad37b2aa9cdc0fa4fdcf4c2484dd8d970584456e000498555c8664c",
+      "size": 9498
+    },
+    "test_model.py": {
+      "sha256": "d7dec338b8d145031f8810a98557b2183184b99fcbdc43b92ca7a0071b1081fb",
+      "size": 8941
+    },
+    "test_train.py": {
+      "sha256": "440642ba76ff6d001ceea499fcd50f835e565dcf5b627630868891a9566bb810",
+      "size": 6581
+    },
+    "train.py": {
+      "sha256": "56225329f29c6e33924c207a549aff71bc55321a232d696784705513501017b3",
+      "size": 24169
+    },
+    "train.sbatch": {
+      "sha256": "34aa6aeafda2f26ca250be74e96a2eb7f43759547fd07ccd1753ac644395ec77",
+      "size": 790
+    },
+    "verify_deployment.py": {
+      "sha256": "f85e19b7e54d45c9c913a541e6e8cd3fc6fa4d6d331f6ae21d547e6ae460871b",
+      "size": 435
+    }
+  },
+  "export_date": "2026-10-28",
+  "transport": "SSH",
+  "source_files_unmodified": true
+}

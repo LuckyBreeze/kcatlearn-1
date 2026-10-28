@@ -1,0 +1,23 @@
+{
+  "protein": {
+    "path": "/share/home/u17015/data/prot5/prot_t5_xl_uniref50",
+    "files": {
+      "pytorch_model.bin": "c06141d42e93c12b5f6d95c701952156bd4079661f5f2d981d0d2036ba96dae9",
+      "config.json": "899fe63bf0178fd23583eca238ade81d56a1779c344741f391c3902855c64b77",
+      "tokenizer_config.json": "a5064475340d80a560463f49921407d901eef3e89667a931eb81a186633eff4b",
+      "special_tokens_map.json": "4720c0fddbe4c5991334f85ad7073d9bd0a294a8ba4641a2f8dab614ca825949",
+      "spiece.model": "74da7b4afcde53faa570114b530c726135bdfcdb813dec3abfb27f9d44db7324"
+    }
+  },
+  "molt5": {
+    "path": "/share/home/u17015/data/GraphKcat/catapro_residue_query_model2_20261027/weights/molt5-base-smiles2caption",
+    "files": {
+      "pytorch_model.bin": "111fc277b175d7b0586905424448e20f1dce1dc1b1e912c6e447921b7d8621b1",
+      "config.json": "459c85bbfe0ea6b713995f642af78a0db2fece550313c5774484ec54c089f54a",
+      "tokenizer_config.json": "aa7b635caaf0cda79f9fa1bc1bf1d19413c4e31991a04a7f4774f786b26b0443",
+      "special_tokens_map.json": "4720c0fddbe4c5991334f85ad7073d9bd0a294a8ba4641a2f8dab614ca825949",
+      "spiece.model": "d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86",
+      "tokenizer.json": "fe2ebbbbde2985be723e0ce18217853e4020c5e9d35bd07be2c27ab9d3ead57a"
+    }
+  }
+}

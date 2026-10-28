@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "tests": 29,
+  "torch": "2.6.0+cpu",
+  "scope": "synthetic CPU only; no formal data fitting",
+  "model_sha256": "8ce826d29d025c13d97d53312895f92c6bf71cd3089d8cfd3bc0053c6500dbb9",
+  "source_sha256": {
+    "author_utils.py": "1c5dfb08259a90eee896ec9ca1b3fcbb8dfe641b53e85f750b64f7ddaeaa762d",
+    "data.py": "319d67bc8ad16b4f9ed2e99ef3c7ea4012cadd7b34d1aa7dfe6fecb137c16935",
+    "deploy.py": "a280335e698c1ccdfb614c8e8150faac7940622f9c46b45c238280776ac23c2f",
+    "example_forward.py": "ddc967fc8afcbfcaba0019ceb7e9251391f5f80cd952793f20ffa044d015a785",
+    "extract_tokens.py": "fc26dfd290588233f491bc569f479a7709a56b74db0633b345556f2803fe6474",
+    "local_validate.py": "2cd3d131a45c2d635967e20b7b7e9d91c41f83787a65d32a39b1ab5f53fa1c7f",
+    "model.py": "8ce826d29d025c13d97d53312895f92c6bf71cd3089d8cfd3bc0053c6500dbb9",
+    "prepare.py": "c1825a127271c54595451c52ded17d3fb8757fff2116fdd90846e0ef9c95e32d",
+    "recover_deploy.py": "1c8975a5efd221452537242e36e130ec5e4c6f164158649b6a0f4d8c5668ac1e",
+    "review_checks.py": "c5409801459d1f772af5dfe06e51fd3f5a6980d4415c3fbd90659c149e6bbb7a",
+    "snapshot.py": "2b12d175eb8fb3d90c0b919612b7fc349ac1259e6518c54e5c6dd14a02db13fe",
+    "snapshot_remote.py": "27b3e92b474b25cf0db2040d3f280d6786c3407fa4dde6228eea46dccf2b946f",
+    "submit_remote.py": "28d777fb23b7a3440b27e9e92483de7f173ff6890c9b9b27926fa5c32471f697",
+    "tail_batch.py": "1506f0e8e721ea147a0aeebe2e4347995a90f0020e43cfb0b9e84b513b92c696",
+    "test_data.py": "2daf368aa30fdd0ae6d48668d818e95817e2720d8d5a92c8190690f81c19cc09",
+    "test_extract_tokens.py": "0dc727d7cad37b2aa9cdc0fa4fdcf4c2484dd8d970584456e000498555c8664c",
+    "test_model.py": "d7dec338b8d145031f8810a98557b2183184b99fcbdc43b92ca7a0071b1081fb",
+    "test_train.py": "440642ba76ff6d001ceea499fcd50f835e565dcf5b627630868891a9566bb810",
+    "train.py": "56225329f29c6e33924c207a549aff71bc55321a232d696784705513501017b3",
+    "transfer_encoder.py": "06709e0641b98882e138f1e92e56d1196453ec32e9f51a4ae029e26f026a9532",
+    "verify_deployment.py": "f85e19b7e54d45c9c913a541e6e8cd3fc6fa4d6d331f6ae21d547e6ae460871b"
+  }
+}
